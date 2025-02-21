@@ -1,4 +1,4 @@
-# 🏆 Amazon Web Services (AWS) 
+#  Amazon Web Services (AWS) 
 
 A **AWS (Amazon Web Services)** é uma plataforma de computação em nuvem que oferece uma ampla gama de serviços, incluindo **armazenamento, banco de dados, rede, computação e muito mais**. Esses serviços permitem que empresas e desenvolvedores criem soluções escaláveis, seguras e eficientes.
 
